@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "axios": "^0.21.1",
-    "react": "^16.5.0",
-    "react-dom": "^16.5.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-scripts": "4.0.0",
     "snyk": "^1.463.0"
   },
