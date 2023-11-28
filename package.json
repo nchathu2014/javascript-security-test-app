@@ -6,8 +6,8 @@
     "axios": "^0.21.1",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
-    "react-scripts": "4.0.0",
-    "snyk": "^1.463.0"
+    "react-scripts": "5.0.0",
+    "snyk": "^1.685.0"
   },
   "scripts": {
     "start": "react-scripts start",
